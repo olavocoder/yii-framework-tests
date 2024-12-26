@@ -1,0 +1,2 @@
+# install yii framework
+docker-compose run app composer create-project yiisoft/yii2-app-basic .
